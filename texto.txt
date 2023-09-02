@@ -1,0 +1,2 @@
+Clonar repositorio
+git clone https://github.com/lrvt/InteligenciaArtificial.git
